@@ -1,21 +1,39 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "eliza44hoffman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947902?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "jdjessen",
+    "is_private": false,
+    "title": "Rhetorics of AI-Generated Commercials",
+    "description": "Synthetic ads generated or manipulated by AI.",
+    "language": "en",
+    "slug": "rhetoric-of-ai-generated-commercials",
+    "creator": "jdjessen",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "eliza44hoffman",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260947902?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-11T15:56:14.596Z",
+    "updated_at": "2026-02-11T15:56:14.596Z"
   }
 }
