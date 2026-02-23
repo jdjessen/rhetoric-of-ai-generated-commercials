@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-02-23T16:09:43.933Z",
+  "created_by": "jdjessen",
+  "title": "Svedka Super Bowl Ad",
+  "slug": "svedka-super-bowl-ad",
+  "updated_at": "2026-02-23T16:09:43.933Z",
+  "updated_by": "jdjessen",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "c5991bab-1c41-4620-869f-b0c98a3ad54c"
+  }
+}

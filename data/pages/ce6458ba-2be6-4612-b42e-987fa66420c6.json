@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-02-23T16:09:43.988Z",
+  "created_by": "jdjessen",
+  "title": "McDonalds",
+  "slug": "mcdonalds",
+  "updated_at": "2026-02-23T16:09:43.988Z",
+  "updated_by": "jdjessen",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "fe0ff88c-ac98-4e40-9304-26fdc50e1314"
+  }
+}
