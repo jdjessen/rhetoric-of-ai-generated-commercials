@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "c5991bab-1c41-4620-869f-b0c98a3ad54c",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-23T16:09:43.933Z",
   "created_by": "jdjessen",
   "title": "Svedka Super Bowl Ad",
   "slug": "svedka-super-bowl-ad",
-  "updated_at": "2026-02-23T16:09:43.933Z",
+  "updated_at": "2026-02-23T16:28:59.224Z",
   "updated_by": "jdjessen",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "c5991bab-1c41-4620-869f-b0c98a3ad54c"
   }
