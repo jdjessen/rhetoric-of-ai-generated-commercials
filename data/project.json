@@ -28,19 +28,35 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "parktim14",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261949809?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Rhetorical Appeal",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Rhetorical Appeal"
+        }
+      ]
     },
     "created_at": "2026-02-11T15:56:14.596Z",
-    "updated_at": "2026-02-23T16:09:43.991Z",
+    "updated_at": "2026-02-23T16:12:33.664Z",
     "generate_pages_site": true
   },
   "annotations": {},
