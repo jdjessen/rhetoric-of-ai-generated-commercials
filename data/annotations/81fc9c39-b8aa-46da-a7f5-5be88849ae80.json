@@ -1,5 +1,133 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We see a close-up shot \"Fembot,\" who opens a curtain and knocks on the screen to catch the viewers' attention"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        }
+      ],
+      "uuid": "7ef267ef-1911-4c16-a835-5363d993aa3a"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video zooms out to a wideshot of Fembot and now \"Brobot,\" their bodies eject a bottle of Svedka vodka and a cocktail shaker"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd603592-960a-4394-bc30-9128aa1c5681"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video then shows the male robot pouring the svedka bottle to the svedka container that the female robot is holding. This shows human like interactiuons as they prepare to do something with the drink which is later shown. Music shifts."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "159b2d0d-f2b6-4c36-a667-0d915573cdaf"
+    },
+    {
+      "start_time": 12,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Associates Svedka with fun, as seen with the various clips of people, and robots, dancing with a bottle in hand. Music changes to something more upbeat, party vibes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeal"
+        }
+      ],
+      "uuid": "2dbb2e4b-ce2d-4db3-8ce9-1d242a7afebc"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fembot dances with the shaker, depicted at the center of the dance floor; Svedka = center of attention"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25a019c1-0102-4734-b349-a89c26ce002f"
+    },
+    {
+      "start_time": 22,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fembot pours drink into Brobot's glass; Brobot drinks and it spills onto his wiring (<-- irony?)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5aee12d9-2ada-4d84-b562-d894eead98a7"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Definitvely declares Svedka is a liquor brand. Liquor = familiar with party life. Tag line that emphasizes this association"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeal"
+        }
+      ],
+      "uuid": "963c41ea-b816-4e42-9ac0-49b068bcd150"
+    }
+  ],
   "set": "Default",
   "event_id": "c5991bab-1c41-4620-869f-b0c98a3ad54c",
   "source_id": "8413e367-7716-46f0-9156-a1d41f2900de"
