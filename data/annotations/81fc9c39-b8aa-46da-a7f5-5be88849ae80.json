@@ -58,12 +58,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The video then shows the male robot pouring the svedka bottle to the svedka container that the female robot is holding. This shows human like interactiuons as they prepare to do something with the drink which is later shown. Music shifts."
+              "text": "The video then shows the male robot pouring the svedka bottle to the svedka container that the female robot is holding. This shows human like interactions as they prepare to do something with the drink which is later shown. This interaction shows how the product is supposed to be used and uses a logical step by step approach for a preparation of a drink that a bartender might do. This scene also introduces the idea subtly that even robots can party so if they can party, anyone can go out and party with their drinks in mind. Pour, Mix, Fun. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        }
+      ],
       "uuid": "159b2d0d-f2b6-4c36-a667-0d915573cdaf"
     },
     {
