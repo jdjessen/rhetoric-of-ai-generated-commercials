@@ -33,12 +33,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Video zooms out to a wideshot of Fembot and now \"Brobot,\" their bodies eject a bottle of Svedka vodka and a cocktail shaker"
+              "text": "Video zooms out to a wideshot of Fembot and then shows the \"Brobot\" as their bodies eject a bottle of Svedka vodka and a cocktail shaker. This shows the obvious exaggerated robot movements and functions while making it somewhat humorous and surreal. The wideshot zoom of the robot and the switch in \"gender\" for the robots establishes a setting change and sets up for a scene where either robots can now help further introduce the product Svedka. This is shown as the bottle appears in a dramatic fashion that almost seems out of this world due to it being from the robots bodies. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Rhetorical Appeal",
+          "tag": "Audience"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        }
+      ],
       "uuid": "cd603592-960a-4394-bc30-9128aa1c5681"
     },
     {
