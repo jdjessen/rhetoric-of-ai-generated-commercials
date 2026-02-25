@@ -241,22 +241,6 @@
       "uuid": "9ab19ea4-1bbd-40d1-b1d2-473da6509154"
     },
     {
-      "start_time": 45,
-      "end_time": 46,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Squaw Valley, again, quickly morphs into the Cortina d'Ampezzo Olympics 1956"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "d87c7d89-88f8-4146-a9d1-56c74541d191"
-    },
-    {
       "start_time": 46,
       "end_time": 48,
       "annotation": [
