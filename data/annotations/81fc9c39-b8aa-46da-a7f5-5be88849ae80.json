@@ -83,15 +83,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Associates Svedka with fun, as seen with the various clips of people, and robots, dancing with a bottle in hand. Music changes to something more upbeat, party vibes."
+              "text": "Associates Svedka with fun, as seen with the various clips of people, and robots, dancing with a bottle in hand. Music changes to something more upbeat, party vibes. The change in music stimulates excitement and thoroughly creates a party-like atmosphere. The dancing of the robots and the bottle of svedka creates a more emotional linkage with the audience as they create an atmosphere that is normal despite being robots. This makes the viewers associate svedka with something that is fun, energetic, and something social. This is a common advertising strategy where it entices the audience to buy something in order to feel a certain way. "
             }
           ]
         }
       ],
       "tags": [
         {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        },
+        {
           "tag": "Logos",
           "category": "Rhetorical Appeal"
+        },
+        {
+          "category": "Rhetorical Appeal",
+          "tag": "Audience"
         }
       ],
       "uuid": "2dbb2e4b-ce2d-4db3-8ce9-1d242a7afebc"
