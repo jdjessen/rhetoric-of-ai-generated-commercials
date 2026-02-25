@@ -1,1 +1,87 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"jdjessen","avatar_url":"https://avatars.githubusercontent.com/u/260947821?v=4","admin":true},{"login_name":"eliza44hoffman","avatar_url":"https://avatars.githubusercontent.com/u/260947902?v=4","admin":false,"not_accepted":true}],"project":{"github_org":"jdjessen","is_private":false,"title":"Rhetorics of AI-Generated Commercials","description":"Synthetic ads generated or manipulated by AI.","language":"en","slug":"rhetoric-of-ai-generated-commercials","creator":"jdjessen","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Rhetorical Appeal","color":"#ADFFD9"}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeal"},{"tag":"Pathos","category":"Rhetorical Appeal"},{"tag":"Logos","category":"Rhetorical Appeal"},{"category":"Rhetorical Appeal","tag":"Audience"},{"category":"Rhetorical Appeal","tag":"stakeholder"}]},"created_at":"2026-02-11T15:56:14.596Z","updated_at":"2026-02-25T15:42:03.562Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"7b3f5e26-f937-4e65-b36b-79cabfcf1fe0":{"content":[],"created_at":"2026-02-11T15:56:14.620Z","created_by":"jdjessen","title":"Rhetorics of AI-Generated Commercials","updated_at":"2026-02-11T15:56:14.620Z","updated_by":"jdjessen","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["7b3f5e26-f937-4e65-b36b-79cabfcf1fe0"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "jdjessen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947821?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "eliza44hoffman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260947902?v=4",
+      "admin": false,
+      "not_accepted": true
+    }
+  ],
+  "project": {
+    "github_org": "jdjessen",
+    "is_private": false,
+    "title": "Rhetorics of AI-Generated Commercials",
+    "description": "Synthetic ads generated or manipulated by AI.",
+    "language": "en",
+    "slug": "rhetoric-of-ai-generated-commercials",
+    "creator": "jdjessen",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Rhetorical Appeal",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "category": "Rhetorical Appeal",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Appeal",
+          "tag": "stakeholder"
+        }
+      ]
+    },
+    "created_at": "2026-02-11T15:56:14.596Z",
+    "updated_at": "2026-02-25T15:45:36.259Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "7b3f5e26-f937-4e65-b36b-79cabfcf1fe0": {
+      "content": [],
+      "created_at": "2026-02-11T15:56:14.620Z",
+      "created_by": "jdjessen",
+      "title": "Rhetorics of AI-Generated Commercials",
+      "updated_at": "2026-02-11T15:56:14.620Z",
+      "updated_by": "jdjessen",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "7b3f5e26-f937-4e65-b36b-79cabfcf1fe0"
+  ]
+}
