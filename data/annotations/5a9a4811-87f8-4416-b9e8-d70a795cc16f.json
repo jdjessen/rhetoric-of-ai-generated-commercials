@@ -30,22 +30,6 @@
       "uuid": "2504ca5c-8dd3-4608-9401-d2d167d511a8"
     },
     {
-      "start_time": 6,
-      "end_time": 9,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The PyeongChang Olympics 2018 logo appears; as the woman flies through the logo, her expression changes to a smile, and her outfit transforms from being skiing clothes to a generic east-asian outfit, and she flies out of the shot."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "aff97b47-a35b-49c3-aa32-e5f07eb9dae1"
-    },
-    {
       "start_time": 9,
       "end_time": 10,
       "annotation": [
