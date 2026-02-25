@@ -22,7 +22,7 @@
     "github_org": "jdjessen",
     "is_private": false,
     "title": "Rhetorics of AI-Generated Commercials",
-    "description": "Synthetic ads generated or manipulated by AI.",
+    "description": "In this project, you will see three videos that use AI in order to generate videos. The SVEDKA and McDonald's videos are ads that are meant to spread their product usage to the audience. The winter Olympics video is a promotional video that introduces the events to the audience. Within each video there will be annotations and literacy tags that are being used within certain time stamps within the video. ",
     "language": "en",
     "slug": "rhetoric-of-ai-generated-commercials",
     "creator": "jdjessen",
@@ -97,7 +97,7 @@
       ]
     },
     "created_at": "2026-02-11T15:56:14.596Z",
-    "updated_at": "2026-02-25T15:59:56.852Z",
+    "updated_at": "2026-02-25T16:06:49.836Z",
     "generate_pages_site": true
   },
   "annotations": {},
