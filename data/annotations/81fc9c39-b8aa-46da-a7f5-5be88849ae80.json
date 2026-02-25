@@ -112,12 +112,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Fembot dances with the shaker, depicted at the center of the dance floor; Svedka = center of attention"
+              "text": "Fembot dances with the shaker, depicted at the center of the dance floor; Svedka = center of attention. By having the bottle be placed in the center visually implies that it is important. In this case, since the svedka bottle is in the center, it shows that it is important and draws the audiences attention to the product. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeal"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeal"
+        }
+      ],
       "uuid": "25a019c1-0102-4734-b349-a89c26ce002f"
     },
     {
