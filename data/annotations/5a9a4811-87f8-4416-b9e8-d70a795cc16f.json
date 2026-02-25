@@ -241,22 +241,6 @@
       "uuid": "9ab19ea4-1bbd-40d1-b1d2-473da6509154"
     },
     {
-      "start_time": 44,
-      "end_time": 45,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We quickly fade into the Squaw Valley Olympics 1960"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "1888802a-f9f9-4eae-9790-a9b5200a7d9d"
-    },
-    {
       "start_time": 45,
       "end_time": 46,
       "annotation": [
