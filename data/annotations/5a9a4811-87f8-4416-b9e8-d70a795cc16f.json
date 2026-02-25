@@ -241,22 +241,6 @@
       "uuid": "9ab19ea4-1bbd-40d1-b1d2-473da6509154"
     },
     {
-      "start_time": 43,
-      "end_time": 44,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The Grenoble graphic also quickly morphs into the Innsbruck Olympics 1964 logo"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "1db46e55-df2c-43fb-ad42-794c2fbd5c82"
-    },
-    {
       "start_time": 44,
       "end_time": 45,
       "annotation": [
