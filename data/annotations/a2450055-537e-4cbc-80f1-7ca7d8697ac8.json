@@ -263,12 +263,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The first smile is flashed on the screen, as the Xmas-tree-redecoration victim finds refuge in a McDonalds."
+              "text": "The first smile is flashed on the screen, as the Christmas-tree-redecoration victim finds refuge in a McDonald’s. We finally see a payout for all the opinionated buildup, portraying McDonald’s as a happy place. There is a clear correlation between creating a pleasant holiday experience and attending the restaurant. In this scene McDonald’s involves their audience as stakeholders, stating that McDonald’s could be an escape from the often-disastrous season. The man in the scene is meant to embody that audience, being 20-something year old Dutch adults. His happiness is infectious, juxtaposing the ceaseless disorganization, and is designed to influence the viewer into the same emotion."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Stakeholders"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Message"
+        },
+        {
+          "tag": "Pathos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "tag": "Ethos",
+          "category": "The 3 Rhetorical Appeals"
+        }
+      ],
       "uuid": "91c26276-940c-44a1-9165-ef1585d7e7d7"
     },
     {
