@@ -133,22 +133,6 @@
       "uuid": "dc2d3715-b5fb-4ebe-92c0-97df59661b03"
     },
     {
-      "start_time": 23,
-      "end_time": 25,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A generic perching bird flies around the flag, the shot follows the bird in flight, and it perches onto a pair of ski poles; the Nagano Olympics 1998 logo appears"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "ee73c73b-ce7c-4424-876e-adf197cfcb06"
-    },
-    {
       "start_time": 25,
       "end_time": 28,
       "annotation": [
