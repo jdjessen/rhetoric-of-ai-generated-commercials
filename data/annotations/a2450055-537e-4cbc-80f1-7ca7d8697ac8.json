@@ -329,12 +329,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The final shot displays the carrolers, once again in front of the McDonalds, singing in pouring rain as we recognize a familiar bleak and dreary Scandinavian town whose only flashes of color and life are the lights' of the McDonald's windows and--of course--its iconic golden arches."
+              "text": "The final shot displays the carolers, once again in front of the McDonalds, singing in pouring rain as we recognize a familiar bleak and dreary Dutch town whose only flashes of color and life are the lights of the McDonald's windows and--of course--its iconic golden arches. A Dutch phrase, translating to “December could use a little McDonald’s” flashes on the screen. This is the tie-in, as we converge all these preceding disasters into a simple tag line and visual that attempts to evoke familiarity. The message cannot be clearer, as we are sought to see McDonald’s as a sanctuary from chaos."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Message"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Purpose"
+        }
+      ],
       "uuid": "34fb4f9a-1d67-41fa-aad5-c5445e920368"
     },
     {
