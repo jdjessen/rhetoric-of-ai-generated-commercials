@@ -198,12 +198,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The Sapporo Olympics logo quickly morphs into the Grenoble Olympics 1968 logo; We get a rapid fire sequence of morphing logos, with Sapporo 1972 Olympics morphing into the Grenoble 1964 Olympics, to the Squaw Valley 1960 Olympics, and finally into the Cortina d'Ampezzo 1956 Olympics."
+              "text": "We get a rapid-fire sequence of morphing logos: the Sapporo Olympics quickly transforms into the 1968 Grenoble Olympic logo, which transforms into the 1964 Innsbruck Olympic logo, then to the 1960 Squaw Valley Olympics, and finally into the 1956 Cortina d'Ampezzo Olympics. Each of these shots lasts less than a second, making it difficult to understand which logo corresponds to each, especially for those unfamiliar with past Olympic logos, which is likely the majority of the audience. This sequence is jarring, since, before, we were able to sit with each past event a bit longer. All that these featured events have is a mere snippet. This makes the video even more perplexing, given that these events clearly do not receive equal time. The audience doesn’t get a chance to sit with each past game long enough to understand its significance in isolation or in relation to everything else."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Audience"
+        },
+        {
+          "tag": "Pathos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Message"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        }
+      ],
       "uuid": "9ab19ea4-1bbd-40d1-b1d2-473da6509154"
     },
     {
