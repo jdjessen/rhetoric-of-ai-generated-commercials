@@ -249,22 +249,6 @@
       "uuid": "b20ff3f9-26af-4243-b628-21a4e1783c94"
     },
     {
-      "start_time": 48,
-      "end_time": 51,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Two figures ski past the flags"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "bc1d8fe9-61b0-494d-8a00-3d59a60c3d2d"
-    },
-    {
       "start_time": 51,
       "end_time": 53,
       "annotation": [
