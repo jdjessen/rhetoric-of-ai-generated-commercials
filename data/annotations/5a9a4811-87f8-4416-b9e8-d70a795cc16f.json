@@ -134,18 +134,27 @@
     },
     {
       "start_time": 25,
-      "end_time": 28,
+      "end_time": 35,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Bird begins to take off, and transforms into the main woman in a burst of warm colors; Woman sleds through colorful tunnel"
+              "text": "Here, the woman appears again, sledding through a burst of orange and pink. We only get a split second of the 1994 Lillehammer Olympics logo before moving on to the woman figure skating. Posters with past Olympic emblems lay around her, including those of the 1992 Albertville, 1988 Calgary, 1984 Sarajevo, and 1980 Lake Placid Winter Olympics. This is the first time that multiple past Olympics are being featured at once. Arguably, this detail detracts from the video's quality, as it likely makes the audience wonder why these events did not get their own feature — perhaps they were running out of time and had to rush certain parts? To an extent, this inconsistency suggests a bias towards/against past games."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Audience"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        }
+      ],
       "uuid": "7786e8bf-12e5-4803-a6f0-5ff6bf60130e"
     },
     {
