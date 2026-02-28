@@ -191,22 +191,6 @@
       "uuid": "be509815-2b0c-4cd0-a081-67e772e228ba"
     },
     {
-      "start_time": 39,
-      "end_time": 41,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "As the woman skiis, we get an extreme close-up of her eye"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "762409f7-a0cb-4cd3-9e1f-1fc33205add2"
-    },
-    {
       "start_time": 41,
       "end_time": 42,
       "annotation": [
