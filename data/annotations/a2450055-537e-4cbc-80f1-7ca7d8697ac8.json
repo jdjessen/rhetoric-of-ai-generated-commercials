@@ -74,12 +74,40 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Magical creatures join in on frustration and the song, as a stuffed bear is being faught over, and Santa gets stuck in traffic."
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Magical creatures join in on frustration and the song, as a stuffed bear is being fought over, and Santa gets stuck in traffic. The humor continues, as the beloved holiday magic is introduced and shares this familiar seasonal burden. The frantic and pitchy singing of the toy bear inside the store epitomizes this dependance on lighthearted jabs. Furthermore, there is a logic component for the audience that utilizes universal iconography—like Santa and a Christmas teddy bear gift—to express their point. It proposes, “If "
+            },
+            {
+              "text": "the",
+              "italic": true
+            },
+            {
+              "text": " Santa Claus is struggling this holiday, then maybe McDonald’s is right!” Yet, early on, without no definite tie-in or statement, it is easy for the message to feel as an unnecessary attack on the beloved character. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Message"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Audience"
+        }
+      ],
       "uuid": "c0e66bec-157c-464e-a308-2a92a2d6eeb5"
     },
     {
