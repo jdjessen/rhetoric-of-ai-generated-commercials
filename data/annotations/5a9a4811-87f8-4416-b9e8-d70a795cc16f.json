@@ -191,22 +191,6 @@
       "uuid": "be509815-2b0c-4cd0-a081-67e772e228ba"
     },
     {
-      "start_time": 36,
-      "end_time": 39,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The main woman skiis on the white strip on the Innsbruck logo"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "67f10ec0-c49a-4940-9156-38fa1ce32651"
-    },
-    {
       "start_time": 39,
       "end_time": 41,
       "annotation": [
