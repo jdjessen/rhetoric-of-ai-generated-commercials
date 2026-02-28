@@ -287,18 +287,43 @@
     },
     {
       "start_time": 58,
-      "end_time": 59,
+      "end_time": 72,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "A poster featuring the St. Moritz Olympics 1928 unfolds as a transition"
+              "text": "A poster-like graphic featuring the 1928 St. Moritz Olympics unfolds, and then quickly transitions to the woman playing hockey. There are several other hockey players whose faces have lost or distorted features. The woman shoots the hockey puck, leading to a surreal depiction of a phoenix with a 1924 Chamonix Olympics border. This is a recreation of the original Chamonix Olympics promotional poster, and what lies beyond the borders in this video is the generator's estimation. We can assume that the amorphous yellow cluster at the bottom right of the frame is supposed to be more bobsledders that the AI generator could not properly represent. We suddenly cut to the woman standing on the phoenix. She falls, lands in the snow, and we end here. The ending, like several other aspects of this video, is frankly bizarre. While not necessarily disturbing or obviously confusing, there's simply no clear reason given for why the video should end this way. The audience who first saw this at the opening ceremony was full of athletes, who should have been able to feel empowered by the history of the Olympics, which is full of struggles and triumphs. But, the video has no clear point of view. It fails to produce an effective narrative with a dynamic storyline. It accomplishes displaying various past Olympic posters or emblems, but it falls short in conveying how incredible it is that the Winter Olympics have been around, showcasing international athletic talent, for a century now."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Error in AI",
+          "tag": "AI Inaccuracies"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Audience"
+        },
+        {
+          "tag": "Pathos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        }
+      ],
       "uuid": "d9ada245-8964-4037-b88a-4fb39b9d3f5f"
     },
     {
