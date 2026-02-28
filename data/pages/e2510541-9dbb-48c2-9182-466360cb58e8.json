@@ -40,6 +40,87 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Feher, Katalin. "
+        },
+        {
+          "text": "Generative AI, Media, and Society",
+          "italic": true
+        },
+        {
+          "text": ". Routledge, 2025. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.4324/9781003591023",
+          "children": [
+            {
+              "text": "https://doi.org/10.4324/9781003591023"
+            }
+          ]
+        },
+        {
+          "text": ". Accessed 24 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“THE infamous AI McDonald’s Ad in Full.” "
+        },
+        {
+          "text": "YouTube",
+          "italic": true
+        },
+        {
+          "text": ", uploaded by Kyle Balmer, 10 Dec. 2025, youtube.com/watch?v=LYz-5cL-BhA. Accessed 18 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wilkins, Joe. “McDonald’s Issues Extremely Weird Response to Its Disastrous AI Ad.” "
+        },
+        {
+          "text": "Futurism",
+          "italic": true
+        },
+        {
+          "text": ", 11 Dec. 2025, futurism.com/artificial-intelligence/mcdonalds-ai-commercial. Accessed 24 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "YouTube",
           "italic": true
         },
@@ -75,15 +156,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n"
+          "text": "\n\n\n"
         }
       ]
     }
@@ -96,6 +169,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-25T15:45:36.045Z",
   "created_by": "parktim14",
-  "updated_at": "2026-02-28T02:19:19.320Z",
-  "updated_by": "parktim14"
+  "updated_at": "2026-02-28T03:55:22.346Z",
+  "updated_by": "jdjessen"
 }
