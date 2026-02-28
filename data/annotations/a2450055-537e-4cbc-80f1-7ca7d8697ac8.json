@@ -358,12 +358,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "To close out the ad, the familar McDonalds jingle chimes, reinstating brand recognition."
+              "text": "To close out the ad, the familiar McDonalds jingle plays, calling upon their iconic brand recognition. It is a global image that is extremely familiar across culture and continent and is perhaps their most powerful appeal. It produces an image synonymous with joy—in part due to their infamous Happy Meal branding. The end placement suggests that the last moment the viewer shares with the ad should be recognizing McDonald’s as the titan of a brand that it is. It forces the audience to recall who they are, and their image as a restaurant in pursuit of great memories, not just good food. Despite the chaos that ensued in the execution, McDonald’s can always fall back on the power of this iconic chime."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Media Circulation"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Communicator"
+        },
+        {
+          "tag": "Ethos",
+          "category": "The 3 Rhetorical Appeals"
+        }
+      ],
       "uuid": "8c4fca1d-1e43-48af-a0dd-1a16dcd27264"
     }
   ],
