@@ -249,22 +249,6 @@
       "uuid": "b20ff3f9-26af-4243-b628-21a4e1783c94"
     },
     {
-      "start_time": 51,
-      "end_time": 53,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The sky darkens into a starry sky with fireworks; the skiing figures move past the St. Moritz Olympics 1948 graphic"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9e5e908e-a859-40ad-893c-e606de126123"
-    },
-    {
       "start_time": 53,
       "end_time": 58,
       "annotation": [
