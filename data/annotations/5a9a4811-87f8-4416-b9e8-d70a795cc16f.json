@@ -158,22 +158,6 @@
       "uuid": "7786e8bf-12e5-4803-a6f0-5ff6bf60130e"
     },
     {
-      "start_time": 32,
-      "end_time": 35,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "the main woman appears once again, as a figure skater this time. Posters lay around her, one of them being the Lake Placid 1990 Olympics"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "813663a8-6084-409e-b2d2-0400774a4dba"
-    },
-    {
       "start_time": 35,
       "end_time": 36,
       "annotation": [
