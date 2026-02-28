@@ -327,22 +327,6 @@
       "uuid": "d9ada245-8964-4037-b88a-4fb39b9d3f5f"
     },
     {
-      "start_time": 59,
-      "end_time": 64,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Woman playing hockey, shoots hockey puck, which flies across the setting into a surreal depiction of a phoenix flying over snowy mountains and several Olympic athletes"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "47c6a751-3d64-4143-a267-380dadfc75c6"
-    },
-    {
       "start_time": 64,
       "end_time": 66,
       "annotation": [
