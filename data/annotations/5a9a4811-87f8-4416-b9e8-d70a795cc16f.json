@@ -68,18 +68,31 @@
     },
     {
       "start_time": 10,
-      "end_time": 13,
+      "end_time": 20,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Vancouver Olympics 2010 logo appears as a park sign, landscape presumably Canadian) is shown; style of animation is infogrpahic-like; focus is on the nature of Vancouver/Canada in general"
+              "text": "As we move onto the 2006 Torino Olympics, the woman appears again, snowboarding across the screen with the Olympic colors trailing behind her. Her hair is now multicolored instead of brown, and the Torino Olympics emblem includes the tagline \"Passion Lives Here.\" This adds to the continual inconsistencies that we see throughout this video. Taking the woman's hair color, for instance, we can reason that this is an artistic liberty, but we still have questions: What is its purpose? Why did the people in charge of creating this video/the AI generator make her hair that way? And why does this Olympic logo get a tagline, but we didn't see that with the others? With this, we can see that this video seems to do only the bare minimum — show past Winter Olympic events and their emblems. There is not much consistency in style, theme, or plot, asides from the woman. But, even with that, her design seems to change."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Message"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        },
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        }
+      ],
       "uuid": "04db8793-e72d-4922-b7a9-a50d0dc5ce5d"
     },
     {
