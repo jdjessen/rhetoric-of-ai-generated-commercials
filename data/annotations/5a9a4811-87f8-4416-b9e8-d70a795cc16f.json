@@ -256,12 +256,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The main woman skiis past posters featuring other past Olympic games; she skiis, gets hit by a snowball and falls"
+              "text": "The main woman reappears, surrounded by posters featuring the 1936 Garmisch-Partenkirchen and 1932 Lake Placid Olympics. Note that the Garmisch-Partenkirchen poster used in this shot mimics the one produced by Ludwig Hohlwein, a member of the Nazi Party and a prominent propaganda artist at the time. While the poster does not itself contain any directly problematic content, it nonetheless carries weight given the artist, the stylization, and the historical context. It’s a dark reminder of the time period leading up to World War II. One should wonder why the IOC allowed this detail to be included. They themselves know about the historical background of each game, and it's strange that this sequence ignores the complex nature of the games at this time. For that matter, there is no incorporation of the history of the games in this ceremonial video. There is no real significance given to any of the events, and it's ironic that a video meant to \"go back in time\" does not give importance to actual Olympic history. The poster is yet another example of oversight over what the AI generator happened to produce. It reminds us that the generator is unaware of context beyond what it is prompted to do.\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Context"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        },
+        {
+          "tag": "Ethos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Purpose"
+        }
+      ],
       "uuid": "d7e6a6b0-3562-402f-b451-d4caccd86ad0"
     },
     {
