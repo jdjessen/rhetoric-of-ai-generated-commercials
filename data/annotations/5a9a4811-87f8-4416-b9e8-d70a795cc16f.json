@@ -165,12 +165,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The Innsbruck Olympics 1976 logo appears"
+              "text": "Now we have the 1976 Innsbruck Olympics, with the woman ski jumping off the logo. As she is midair, we zoom in on her eye. We move through her iris, transitioning into the 1972 Sapporo Olympics logo. We quickly move past this sequence to the next. With these two Olympic events, we see even more inconsistencies with what the video (either by oversight and/or AI-generated happenstance) decides to include. For example, the Innsbruck logo includes the dates of the Olympic events, while most of the other logos do not. The Sapporo Olympics doesn't even get its own special sequence — it's just the logo we get to see. Because of this, the message of how amazing past events were does not effectively come through here, and it doesn't allow the audience to feel moved in any way."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        },
+        {
+          "tag": "Pathos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Message"
+        }
+      ],
       "uuid": "be509815-2b0c-4cd0-a081-67e772e228ba"
     },
     {
