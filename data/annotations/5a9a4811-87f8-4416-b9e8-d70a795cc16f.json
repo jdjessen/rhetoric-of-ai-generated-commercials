@@ -231,12 +231,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The Oslo Olympics 1952 logo and scenery of mountains and Olympic/Norwegian flags appear"
+              "text": "We have the 1952 Oslo Olympics, represented by the Olympic and Norwegian flags propped up on ski poles. We can see some mechanical inaccuracies with how the Olympic flag moves. The Olympic rings on this flag seem distorted by some movements, and the black ring even turns blue. Two figures ski, and fireworks light up the night sky as the 1948 Moritz Olympics graphic appears. Again, this sequence is full of visual inaccuracies. At 00:00:49, specifically, white fragmented shapes appear to the left, and it's unclear as to what they are supposed to be. This is another reminder that the AI generator is unable to fully realize the visual elements of this narrative."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Error in AI",
+          "tag": "AI Inaccuracies"
+        },
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        }
+      ],
       "uuid": "b20ff3f9-26af-4243-b628-21a4e1783c94"
     },
     {
