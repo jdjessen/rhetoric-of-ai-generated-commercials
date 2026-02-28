@@ -327,22 +327,6 @@
       "uuid": "d9ada245-8964-4037-b88a-4fb39b9d3f5f"
     },
     {
-      "start_time": 64,
-      "end_time": 66,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Chamonix Olympics 1924 frames the phoenix bird"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "63603230-4ba5-4e17-8251-6cf657605f44"
-    },
-    {
       "start_time": 66,
       "end_time": 70,
       "annotation": [
