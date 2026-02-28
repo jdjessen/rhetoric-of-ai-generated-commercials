@@ -9,22 +9,23 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Olympics ",
+  "label": "2026 Winter Olympics",
   "description": [
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "This video was played during the opening ceremony for the 2026 Winter Olympics, intended to \"reflect\" back on past Olympic games through the years"
+          "text": "The Milano-Cortina 2026 Winter Olympics is the first of its kind in the era of widely used generative AI. The International Olympic Committee (IOC) has made several statements about its new AI implementations in precise judging, on-site interactive activities, and marketing. One video in particular had sparked online discourse after being displayed during the opening ceremony. Several users on X have commented on its irony—the Olympics is a showcase of human capability, and here it is using generative AI in an attempt to celebrate it. The purpose of the opening ceremony is to introduce the new and returning athletes who will be featured and to get viewers abroad excited. With this AI-generated flashback sequence, the audience is intended to be reminded of past Olympic games and, therefore, inspired. Given that this year's games mark roughly a hundred years since the first Winter Games, reminding the world of their history is especially important. However, this video shows us that using generative AI as a tool prevents these ideas of remembrance, passion, and reverence for past athletes and events from coming through. Viewers can compare this opening ceremony video to other Olympic promotional videos, such as the BBC's \"Trails Will Blaze\" stop-motion video, and clearly see that gen-AI as a medium pales in comparison to human creativity."
         }
       ]
     }
   ],
   "created_at": "2026-02-23T16:09:43.839Z",
   "created_by": "jdjessen",
-  "updated_at": "2026-02-23T16:40:35.176Z",
-  "updated_by": "jdjessen",
+  "updated_at": "2026-02-28T05:18:17.750Z",
+  "updated_by": "eliza44hoffman",
   "av_file_order": [
     "5dc63ee3-4845-48ff-90fd-af5f5d822787"
-  ]
+  ],
+  "citation": "LaCapria, Kim. “Viewers Slam Winter Olympics over “Terrible” Moment on TV Broadcast: “It Looks so Uncanny.”” Yahoo Sports, 15 Feb. 2026, sports.yahoo.com/articles/viewers-slam-winter-olympics-over-234500044.html. Accessed 25 Feb. 2026.  ‌"
 }
