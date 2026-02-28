@@ -325,22 +325,6 @@
         }
       ],
       "uuid": "d9ada245-8964-4037-b88a-4fb39b9d3f5f"
-    },
-    {
-      "start_time": 70,
-      "end_time": 72,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Woman falls off bird, lands in snow, video ends"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "ff6818f2-c693-4ca5-be5e-13708bdd7f76"
     }
   ],
   "set": "Default",
