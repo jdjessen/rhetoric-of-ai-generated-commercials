@@ -158,22 +158,6 @@
       "uuid": "7786e8bf-12e5-4803-a6f0-5ff6bf60130e"
     },
     {
-      "start_time": 28,
-      "end_time": 32,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "the sledding woman fades; Lillehammer Olympics 1994 logo appears on screen, which is entirely pink/orange"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "799c44ae-5273-4e18-a99f-fab58e852483"
-    },
-    {
       "start_time": 32,
       "end_time": 35,
       "annotation": [
