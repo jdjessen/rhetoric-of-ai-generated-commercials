@@ -103,12 +103,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Snowy mountain of the Torino Olympics morphis into a flag with a wide shot of a mountain range, the Salt Lake City Olympics 2002 logo is on the flag; transition from cartoonish style to photorealistic, once again."
+              "text": "We see a snowy mountain range for the 2002 Salt Lake City Olympics, then a bird flies around and perches on a pair of ski poles for the 1998 Nagano Olympics. Once again, these sequences are photorealistic. It seems this video aims to showcase iconic aspects of these locations, but it's inconsistent. It succeeds in this goal with the Salt Lake City Olympics by featuring the city's mountains, which it is known for, while it fails with the Nagano Olympics — we are not sure what significance the bird or mountains have in Japan. Additionally, the rings here with the Nagano Olympics logo violate Olympic ring rules (their colors cannot be altered). It potentially takes away from the International Olympic Committee's credability; how could they violate their own rules? This is a huge error that, again, would likely not have happened had there been more human involvement in this video's creation."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "tag": "Ethos",
+          "category": "The 3 Rhetorical Appeals"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inaccuracies"
+        },
+        {
+          "category": "Error in AI",
+          "tag": "AI Inconsistencies"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Communicator"
+        }
+      ],
       "uuid": "dc2d3715-b5fb-4ebe-92c0-97df59661b03"
     },
     {
