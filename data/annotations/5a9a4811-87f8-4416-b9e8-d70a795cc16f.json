@@ -327,22 +327,6 @@
       "uuid": "d9ada245-8964-4037-b88a-4fb39b9d3f5f"
     },
     {
-      "start_time": 66,
-      "end_time": 70,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cut to the main woman standing on phoenix-like bird, for some reason"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "d8d7bf6d-ccfb-4a78-865b-b67134e346e1"
-    },
-    {
       "start_time": 70,
       "end_time": 72,
       "annotation": [
