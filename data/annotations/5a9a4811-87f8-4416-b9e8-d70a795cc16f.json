@@ -191,22 +191,6 @@
       "uuid": "be509815-2b0c-4cd0-a081-67e772e228ba"
     },
     {
-      "start_time": 41,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We move through the iris of her eye to get the Sapporo Olympics 1972 logo"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "a2f002b4-9fc8-4c6c-8e8a-6d2021260def"
-    },
-    {
       "start_time": 42,
       "end_time": 46,
       "annotation": [
