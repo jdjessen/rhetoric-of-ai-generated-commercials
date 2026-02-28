@@ -96,22 +96,6 @@
       "uuid": "04db8793-e72d-4922-b7a9-a50d0dc5ce5d"
     },
     {
-      "start_time": 13,
-      "end_time": 20,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "For some reason the main woman now has multi-colored hair all of a sudden; she snowboards for a couple seconds, and goes off screen with the Torino Olympics 2006 logo appearing"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "4310da2c-ed00-4b35-b443-17794e255298"
-    },
-    {
       "start_time": 20,
       "end_time": 23,
       "annotation": [
