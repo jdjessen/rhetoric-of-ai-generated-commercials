@@ -8,7 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "We open with a shot of the Beijing Olympics 2022 emblem. The featured woman of this video flies through the logo, and we see various Chinese landmarks and a snowy landscape in the background. The video imitates an animated style, but the generated elements of the setting have several errors. We see crooked windows on the Great Wall, ski lifts with lost details, and colors that abruptly disappear. The woman then flies through the emblem of the PyeongChang 2018 Winter Olympics. As she moves through the logo, her clothes transform into a generic East Asian dress. This is an odd detail — we can assume that the change in clothing is intended to correspond to the location of the Winter Olympics (in this case, Korea). Still, this dress hardly resembles traditional Korean clothing. This reveals generative AI’s inability to check itself unless prompted to do so. One can assume that had this video been created with more human involvement, this error would not have appeared in the final product. "
+              "text": "The video begins with the 2022 Beijing Olympics emblem, which then the main woman \"flies\" through. She continues to float through space, with the Great Wall, ski lifts, and snow in the background, and then flies through the 2018 PyeongChang Olympics logo. As she moves through it, her clothes transform from skiing clothes to a generic East-asian dress. From this sequence, we see that the video is taking the audience back in time to past Winter Olympics locations. This is a strong notion, as it reminds us of how the Winter Olympics began a little over a century ago. However, we can see several inconsistencies already in the video: the windows on the Great Wall are misshapen and disjoint, colors vanish at random, and the ski lifts' details become lost at odd places. Not only that, but the dress that the woman wears for the PyeongChang sequence is also bizarre detail, since it is not quite specific to Korean culture. We can assume that this inconsistency would not have been included had there been more human involvement in the final product."
             }
           ]
         }
@@ -21,6 +21,14 @@
         {
           "category": "AI Inconsistencies",
           "tag": "AI Inaccuracies"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Context"
+        },
+        {
+          "category": "Expanded Rhetorical Appeal",
+          "tag": "Purpose"
         }
       ],
       "uuid": "2504ca5c-8dd3-4608-9401-d2d167d511a8"
